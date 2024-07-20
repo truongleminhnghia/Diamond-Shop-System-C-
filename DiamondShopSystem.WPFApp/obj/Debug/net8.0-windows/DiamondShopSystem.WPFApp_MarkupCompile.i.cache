@@ -1,0 +1,20 @@
+﻿DiamondShopSystem.WPFApp
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\DiamondShopSystem.WPFApp\obj\Debug\net8.0-windows\
+DiamondShopSystem.WPFApp
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\DiamondShopSystem.WPFApp\App.xaml
+18-362087130
+
+23-1174593872
+247375650507
+MainWindow.xaml;UI\Categories\wCategory.xaml;UI\Categories\wCategoryDetail.xaml;UI\Categories\wSearchCategory.xaml;UI\Companys\wCompany.xaml;UI\Companys\wCompanyDetail.xaml;UI\Companys\wSearchCompany.xaml;UI\Customers\WCustomer.xaml;UI\Customers\wSearchCustomer.xaml;UI\Customers\WViewCustomer.xaml;UI\OrderDetails\WDetailOrderDetail.xaml;UI\OrderDetails\WOrderDetail.xaml;UI\OrderDetails\WSearchOrderDetail.xaml;UI\Orders\WOrder.xaml;UI\Orders\WViewOrder.xaml;UI\Products\wProduct.xaml;UI\Products\wProductDetail.xaml;UI\Products\wSearchProduct.xaml;
+
+False
+

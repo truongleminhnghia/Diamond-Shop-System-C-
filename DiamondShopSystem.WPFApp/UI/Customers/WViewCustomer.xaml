@@ -1,0 +1,46 @@
+﻿<Window x:Class="DiamondShopSystem.WPFApp.UI.Customers.WViewCustomer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DiamondShopSystem.WPFApp.UI.Customers"
+        mc:Ignorable="d"
+        Title="View Customer" Height="500" Width="450" Background="#FFD4F7D4">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Code: " FontWeight="Bold"/>
+            <TextBlock x:Name="CustomerId" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Name: " FontWeight="Bold"/>
+            <TextBlock x:Name="CustomerName" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Phone: " FontWeight="Bold"/>
+            <TextBlock x:Name="CustomerPhone" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Address: " FontWeight="Bold"/>
+            <TextBlock x:Name="CustomerAddress" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Gender: " FontWeight="Bold"/>
+            <TextBlock x:Name="CustomerGender" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Email: " FontWeight="Bold"/>
+            <TextBlock x:Name="CustomerEmail" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Image Url: " FontWeight="Bold"/>
+            <TextBlock x:Name="ImageUrl" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Create At: " FontWeight="Bold"/>
+            <TextBlock x:Name="CreateAt" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Update At: " FontWeight="Bold"/>
+            <TextBlock x:Name="UpdateAt" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Active: " FontWeight="Bold"/>
+            <CheckBox x:Name="IsActive" IsEnabled="False"/>
+
+            <StackPanel Height="40" Orientation="Horizontal" HorizontalAlignment="Right" Width="89" RenderTransformOrigin="0.279,0.685">
+                <Button x:Name="Close" Content="Close"  Background="Red" Height="30" Width="80" Click="ButtonClose_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

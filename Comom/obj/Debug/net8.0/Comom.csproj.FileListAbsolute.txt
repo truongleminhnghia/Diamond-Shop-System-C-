@@ -1,0 +1,11 @@
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\Comom\bin\Debug\net8.0\Comom.deps.json
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\Comom\bin\Debug\net8.0\Comom.dll
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\Comom\bin\Debug\net8.0\Comom.pdb
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\Comom\obj\Debug\net8.0\Comom.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\Comom\obj\Debug\net8.0\Comom.AssemblyInfoInputs.cache
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\Comom\obj\Debug\net8.0\Comom.AssemblyInfo.cs
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\Comom\obj\Debug\net8.0\Comom.csproj.CoreCompileInputs.cache
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\Comom\obj\Debug\net8.0\Comom.dll
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\Comom\obj\Debug\net8.0\refint\Comom.dll
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\Comom\obj\Debug\net8.0\Comom.pdb
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\Comom\obj\Debug\net8.0\ref\Comom.dll

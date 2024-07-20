@@ -1,0 +1,7 @@
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\DiamondShopSystem.Business\bin\Debug\net8.0\DiamondShopSystem.Business.deps.json
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\DiamondShopSystem.Business\bin\Debug\net8.0\DiamondShopSystem.Business.dll
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\DiamondShopSystem.Business\bin\Debug\net8.0\DiamondShopSystem.Business.pdb
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\DiamondShopSystem.Business\bin\Debug\net8.0\DiamondShopSystem.Comom.dll
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\DiamondShopSystem.Business\bin\Debug\net8.0\DiamondShopSystem.Data.dll
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\DiamondShopSystem.Business\bin\Debug\net8.0\DiamondShopSystem.Comom.pdb
+D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\DiamondShopSystem.Business\bin\Debug\net8.0\DiamondShopSystem.Data.pdb

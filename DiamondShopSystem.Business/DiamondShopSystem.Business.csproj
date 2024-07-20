@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <BaseOutputPath>D:\FPT_term\Chuyên ngành 5\PRN212\demoV2\SRC\Net1804_212_1_DiamondShopSystemV4\DiamondShopSystem.Business\bin\Debug\net8.0</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Comom\DiamondShopSystem.Comom.csproj" />
+    <ProjectReference Include="..\DiamondShopSystem.Data\DiamondShopSystem.Data.csproj" />
+  </ItemGroup>
+
+</Project>
